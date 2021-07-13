@@ -1,0 +1,2 @@
+ListType=ArrayList
+Directory=/home/thunkpad/Documents/cs245/projects/project_02/states/
